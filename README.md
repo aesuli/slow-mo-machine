@@ -12,12 +12,9 @@ I put in my machine four controls that allow me to set:
 * the duty duty cycle of the LEDs (intensity of light).
 
 See it in action:
-* Video 1:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/maoMhYfvcu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* Video 2:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vIDryuApn_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* Early prototype:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UeeFFY5VJrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Video 1: [![Video 1](https://img.youtube.com/vi/maoMhYfvcu0/0.jpg)](https://www.youtube.com/watch?v=maoMhYfvcu0)
+* Video 2: [![Video 2](https://img.youtube.com/vi/vIDryuApn_g/0.jpg)](https://www.youtube.com/watch?v=vIDryuApn_g)
+* Early prototype: [![Early prototype](https://img.youtube.com/vi/UeeFFY5VJrM/0.jpg)](https://www.youtube.com/watch?v=UeeFFY5VJrM)
 
 ---
 
